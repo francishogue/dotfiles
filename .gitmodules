@@ -1,3 +1,6 @@
 [submodule "sublime"]
 	path = sublime
 	url = git://github.com/buymeasoda/soda-theme.git
+[submodule "sublime/themes/soda"]
+	path = sublime/themes/soda
+	url = git://github.com/buymeasoda/soda-theme.git
